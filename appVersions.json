@@ -1,18 +1,21 @@
-[{
+{
+    "manufacturer": "Don Ho",
     "applicationName": "Notepad++",
     "latestVersion": "1.0.0",
     "downloadURL": "https://example.com/download",
     "repositoryName": "notepad-plus-plus/notepad-plus-plus"
 },
 {
+    "manufacturer": "Igor Pavlov",
     "applicationName": "7-Zip",
     "latestVersion": "1.0.0",
     "downloadURL": "https://example.com/download",
     "repositoryName": "ip7z/7zip"
 },
 {
+    "manufacturer": "Telegram FZ-LLC",
     "applicationName": "Telegram",
     "latestVersion": "1.0.0",
     "downloadURL": "https://example.com/download",
     "repositoryName": "telegramdesktop/tdesktop" 
-}]
+}

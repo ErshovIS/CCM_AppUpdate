@@ -9,4 +9,10 @@
     "latestVersion": "1.0.0",
     "downloadURL": "https://example.com/download",
     "repositoryName": "ip7z/7zip"
+},
+{
+    "applicationName": "Telegram",
+    "latestVersion": "1.0.0",
+    "downloadURL": "https://example.com/download",
+    "repositoryName": "telegramdesktop/tdesktop" 
 }]

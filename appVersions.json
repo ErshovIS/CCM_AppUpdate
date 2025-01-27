@@ -1,4 +1,4 @@
-{
+[{
     "manufacturer": "Don Ho",
     "applicationName": "Notepad++",
     "latestVersion": "1.0.0",
@@ -18,4 +18,4 @@
     "latestVersion": "1.0.0",
     "downloadURL": "https://example.com/download",
     "repositoryName": "telegramdesktop/tdesktop" 
-}
+}]

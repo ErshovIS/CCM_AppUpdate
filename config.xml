@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node>
+  <configuration>
+    <RootFolder>C:\temp</RootFolder>
+  </configuration>
+  <Applications>
+    <Application>
+      <Manufacturer>Notepad++ Team</Manufacturer>
+      <ApplicationName>Notepad++</ApplicationName>
+      <LatestVersion>1.0.0</LatestVersion>
+      <DownloadURL>https://example.download.com/url</DownloadURL>
+      <RepositoryName>notepad-plus-plus/notepad-plus-plus</RepositoryName>
+      <localStoredPath></localStoredPath>
+    </Application>
+    <Application>
+      <Manufacturer>Igor Pavlov</Manufacturer>
+      <ApplicationName>7-Zip</ApplicationName>
+      <LatestVersion>1.0.0</LatestVersion>
+      <DownloadURL>https://example.download.com/url</DownloadURL>
+      <RepositoryName>ip7z/7zip</RepositoryName>
+      <localStoredPath></localStoredPath>
+    </Application>
+    <Application>
+      <Manufacturer>Telegram FZ-LLC</Manufacturer>
+      <ApplicationName>Telegram</ApplicationName>
+      <LatestVersion>1.0.0</LatestVersion>
+      <DownloadURL>https://example.download.com/url</DownloadURL>
+      <RepositoryName>telegramdesktop/tdesktop</RepositoryName>
+      <localStoredPath>
+      </localStoredPath>
+    </Application>
+  </Applications>
+</Node>
